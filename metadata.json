@@ -1,0 +1,6 @@
+{
+  "name": "ProcedureWriter AI",
+  "description": "AI-powered SOP, compliance documentation, workflow mapping, and safety plan writer with intelligent audit readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
